@@ -9,4 +9,5 @@ end
 
 def update_counting_hash(hash, key)
   if 
+  else
 end
